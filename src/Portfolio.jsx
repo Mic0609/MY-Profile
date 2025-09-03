@@ -203,7 +203,7 @@ const Portfolio = () => {
           </div>
 
           <div className="about-image">
-            <img src="../assets/mich.png" alt="Susai Micheal A - Profile" />
+            <img src="/mich.png" alt="Susai Micheal A - Profile" />
           </div>
         </div>
       </section>
